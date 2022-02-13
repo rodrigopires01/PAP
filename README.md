@@ -8,5 +8,4 @@ Como tinha o trabalho todo no meu computador em casa e não tinha como levar o m
 
 Após a finalização de todas as configurações necessárias e testes das mesmas foi possível não só ter uma aplicação funcional e com o sistema de Login e Registo a funcionar na perfeição como também a receber as informações corretas da API da Colmeia.
 
-![pap1](https://user-images.githubusercontent.com/58471643/153776777-0dba1273-2eb8-407d-a71d-d22f65c0d584.png)
-![pap2](https://user-images.githubusercontent.com/58471643/153776779-509bcbb9-0e0f-4db3-927d-2eb84140f570.png)
+![asdasd](https://user-images.githubusercontent.com/58471643/153776961-26830522-7aeb-4dae-95f8-81e714433ee8.png)
